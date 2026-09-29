@@ -4,10 +4,12 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.0-336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Executive_Dashboard-F2C811.svg?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live_Inference_App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook_Run-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Brazilian_E--Commerce_Notebook-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/gyanvats/brazilian-e-commerce)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > An end-to-end customer intelligence and predictive revenue platform built on 100k+ multi-table relational transactions. Combines advanced SQL feature engineering, unsupervised RFM segmentation, supervised churn/repurchase prediction (XGBoost), SHAP operational root-cause analysis, and dual executive reporting (Power BI + Streamlit).
+> 
+> 🔗 **Interactive Kaggle Notebook:** [gyanvats/brazilian-e-commerce](https://www.kaggle.com/code/gyanvats/brazilian-e-commerce)
 
 ---
 
@@ -105,6 +107,10 @@ customers (customer_unique_id) ────< orders (order_id)
 * Interactive tool for operations and customer success teams.
 * Adjust customer parameters (Days since last purchase, historical orders, freight ratio, delivery delay, review score) to calculate real-time churn risk with instant SHAP factor breakdown.
 * **Live App:** `[Pending Streamlit Cloud Deploy]`
+
+### 3. Kaggle Data Pipeline & Model Training
+* Complete reproducible end-to-end Python / SQL execution environment on the Olist dataset:
+* **Interactive Notebook:** [Kaggle - Brazilian E-Commerce Pipeline](https://www.kaggle.com/code/gyanvats/brazilian-e-commerce)
 
 ---
 
