@@ -1,0 +1,12 @@
+# Raw data file
+data/scored_customers.csv
+
+# Python byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Environments
+venv/
+.env
