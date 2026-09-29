@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.0-336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Executive_Dashboard-F2C811.svg?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Inference_App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://ecommerce-customer-intelligence-engine-4cphzx6uy57y4geafwq3pl.streamlit.app)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Inference_App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://ecommerce-customer-intelligence-engine-4cphzx6uy57y4geafwq3pt.streamlit.app/)
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Brazilian_E--Commerce_Notebook-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/gyanvats/brazilian-e-commerce)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -106,7 +106,7 @@ customers (customer_unique_id) ────< orders (order_id)
 ### 2. Streamlit Live Inference Web App
 * Interactive tool for operations and customer success teams.
 * Adjust customer parameters (Days since last purchase, historical orders, freight ratio, delivery delay, review score) to calculate real-time churn risk with instant SHAP factor breakdown.
-* **Live App:** [ecommerce-customer-intelligence-engine.streamlit.app](https://ecommerce-customer-intelligence-engine-4cphzx6uy57y4geafwq3pl.streamlit.app)
+* **Live App:** [ecommerce-customer-intelligence-engine.streamlit.app](https://ecommerce-customer-intelligence-engine-4cphzx6uy57y4geafwq3pt.streamlit.app/)
 
 ### 3. Kaggle Data Pipeline & Model Training
 * Complete reproducible end-to-end Python / SQL execution environment on the Olist dataset:
